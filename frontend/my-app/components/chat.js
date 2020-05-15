@@ -179,7 +179,7 @@ const Chat_component = ({location}) => {
     const [messages, setMessages] = useState([]);
     const [message, setMessage] = useState([]);
     const [openModal, setOpenModal] = useState(true);
-    const ENDPOINT = "localhost:8080";
+    const ENDPOINT = process.env.BACK_CHATCHAT;
     const [listUsers, setListUsers] = useState([]);
 
     useEffect(() => {
