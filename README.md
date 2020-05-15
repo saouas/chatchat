@@ -1,6 +1,4 @@
 # chatchat
-Chatchat
-
 Online chat application in real time.
 Responsive : can be used on any device.
 
@@ -35,7 +33,7 @@ Frontend deploy with netifly
 - Moment
 - Materialui
 
-##Test
+## Test
 
 Link : [Chatchat](https://chatchat.salimaouas.dev)
 
