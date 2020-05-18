@@ -34,6 +34,7 @@ Frontend deploy with netifly
 - Materialui
 
 ## Test
+/!\ Maintenance on my api
 
 Link : [Chatchat](https://chatchat.salimaouas.dev)
 
